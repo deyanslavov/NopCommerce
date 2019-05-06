@@ -1,0 +1,16 @@
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.deps.json
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.pdb
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Core.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Data.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Services.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Services.pdb
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csprojAssemblyReference.cache
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csproj.CoreCompileInputs.cache
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.AssemblyInfoInputs.cache
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.AssemblyInfo.cs
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csproj.CopyComplete
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.pdb

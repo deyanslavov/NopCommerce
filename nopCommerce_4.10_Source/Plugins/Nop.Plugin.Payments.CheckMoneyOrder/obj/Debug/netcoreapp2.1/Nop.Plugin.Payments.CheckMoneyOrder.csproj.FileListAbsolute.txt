@@ -1,0 +1,15 @@
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\plugin.json
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\_ViewImports.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CopyComplete
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.dll
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache

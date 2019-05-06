@@ -1,0 +1,14 @@
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.HomePageNewProducts\plugin.json
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.HomePageNewProducts\Views\Configure.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.HomePageNewProducts\Views\PublicInfo.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.HomePageNewProducts\Views\_ViewImports.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.HomePageNewProducts\Nop.Plugin.Widgets.HomePageNewProducts.deps.json
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.HomePageNewProducts\Nop.Plugin.Widgets.HomePageNewProducts.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.HomePageNewProducts\Nop.Plugin.Widgets.HomePageNewProducts.pdb
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.HomePageNewProducts\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.HomePageNewProducts.csproj.CoreCompileInputs.cache
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.HomePageNewProducts\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.HomePageNewProducts.AssemblyInfoInputs.cache
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.HomePageNewProducts\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.HomePageNewProducts.AssemblyInfo.cs
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.HomePageNewProducts\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.HomePageNewProducts.csproj.CopyComplete
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.HomePageNewProducts\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.HomePageNewProducts.dll
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.HomePageNewProducts\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.HomePageNewProducts.pdb
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.HomePageNewProducts\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.HomePageNewProducts.csprojAssemblyReference.cache

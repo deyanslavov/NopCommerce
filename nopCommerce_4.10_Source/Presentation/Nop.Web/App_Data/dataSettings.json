@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=DESKTOP-63U4IBQ\\SQLEXPRESS;Initial Catalog=NopCommerce1;Integrated Security=True",
+  "RawDataSettings": {}
+}

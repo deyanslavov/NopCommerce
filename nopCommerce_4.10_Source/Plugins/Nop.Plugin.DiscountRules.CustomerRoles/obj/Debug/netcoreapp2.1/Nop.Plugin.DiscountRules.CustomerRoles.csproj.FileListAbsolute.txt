@@ -1,0 +1,13 @@
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\plugin.json
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CoreCompileInputs.cache
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.dll
+E:\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.pdb

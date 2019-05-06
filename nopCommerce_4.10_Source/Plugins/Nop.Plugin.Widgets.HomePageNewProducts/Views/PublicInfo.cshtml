@@ -1,0 +1,22 @@
+﻿@model Nop.Plugin.Widgets.HomePageNewProducts.Models.PublicInfoModel
+@{
+    Layout = "";
+}
+
+<div class="theme-custom">
+    <div>
+        @if (Model.Products.Count > 0)
+        {
+            <div class="product-grid">
+                <div class="item-grid">
+                    @foreach (var product in Model.Products)
+                    {
+                        <div class="item-box">
+                            @await Html.PartialAsync("_ProductBox", product)
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+</div>
